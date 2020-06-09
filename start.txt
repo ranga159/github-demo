@@ -1,1 +1,1 @@
-TEST Git Quick Start demo changing master
+TEST Git Quick Start demo changing branch
